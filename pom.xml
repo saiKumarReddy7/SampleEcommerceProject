@@ -33,7 +33,7 @@
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://44.202.251.20:8081/repository/flm-releases/</url>
+		    <url>http://44.192.120.177:8081/repository/MyFirstNexusRepo/</url>
 		</repository>
   	</distributionManagement>
 	
